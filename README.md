@@ -1,6 +1,7 @@
 # TypingMasterApp
 Check Your Typing Skill in a Minute 
 
+<img width="933" alt="App Console" src="https://user-images.githubusercontent.com/67089791/173789165-673c96b3-c335-4c6f-bffd-f03909885836.png">
 
 Double your typing speed. Learn keyboarding in a fun way. Test your wpm speed and accuracy. Play top-notch typing games. Find it all from TypingMaster App made with Python! 
 
